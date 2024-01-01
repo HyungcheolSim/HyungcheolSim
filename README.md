@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 안녕하세요 Java 백엔드 개발자가 되고싶은 HyungcheolSim입니다.
+# 안녕하세요 백엔드 개발자 취업 준비중인 HyungcheolSim입니다.
 ## 방문해주셔서 감사합니다!
 
 ## Contact
