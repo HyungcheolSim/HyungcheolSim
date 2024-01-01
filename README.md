@@ -2,6 +2,8 @@
 <div align="center">
   
 # 안녕하세요 백엔드 개발자 취업 준비중인 HyungcheolSim입니다.
+
+지속적인 성장을 목표하는 개발자입니다.
 ## 방문해주셔서 감사합니다!
 
 ## Contact
