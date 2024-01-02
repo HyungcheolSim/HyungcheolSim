@@ -1,10 +1,10 @@
 
 <div align="center">
   
-# 안녕하세요 백엔드 개발자 취업 준비중인 HyungcheolSim입니다.
+# 안녕하세요 백엔드 주니어 개발자 HyungcheolSim입니다.
 
 지속적인 성장을 목표하는 개발자입니다.
-## 방문해주셔서 감사합니다!
+
 
 ## Contact
 
@@ -12,20 +12,25 @@ Mail : sim34122@gmail.com
 
 Phone : 010-3345-8446
 
-📌 나를 위한 지식저장소 : [KNOWLEDGE](https://boundless-pudding-4e9.notion.site/1c576d2b40504039aa6a916a67a57ca2?v=cdf24696c710402389e712cec6b2546e&pvs=4)
+📌 Blog : [나를 위한 지식저장소](https://sim34122.oopy.io/)
 <br/>
 
-📌 23.05.15부터 작성한 TIL, 프로젝트 문서들  :  [HC's SPACE](https://boundless-pudding-4e9.notion.site/52b4c2b020af4e8a87783ee7fe86e373?v=0949c3a516b346129a1d62a33dbcb23d&pvs=4/)
-<br/>
-<br/>
-📌 코딩테스트 연습: [CodingTest](https://github.com/HyungcheolSim/CodingTests/)
 ### Major Skills
 
 ---
 
-<p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws&perline=5"/>
-</p>
+Front-end <br><br>
+<img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="Js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<br><br>
+
+Back-end <br><br>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-F80000.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+<br><br>
 
 <br/>
 
