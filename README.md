@@ -12,7 +12,7 @@ Mail : sim34122@gmail.com
 
 Phone : 010-3345-8446
 
-📌 Blog : [나를 위한 지식저장소](https://sim34122.oopy.io/)
+📌 Private Storage : [나를 위한 지식저장소](https://devsim.oopy.io/)/)
 <br/>
 
 ### Major Skills
