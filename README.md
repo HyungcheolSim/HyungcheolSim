@@ -14,7 +14,7 @@ Mail : sim34122@gmail.com
 
 Phone : 010-3345-8446
 
-📌 Private Storage : [나를 위한 지식저장소](https://devsim.oopy.io/)/)
+📌 Private Storage : [나를 위한 지식저장소]([/HyungCheolSim-658ff3908b794b649fd0e6a007913adf?source=copy_link](https://www.notion.so/HyungCheolSim-658ff3908b794b649fd0e6a007913adf?source=copy_link))/)
 <br/>
 
 ### Major Skills
